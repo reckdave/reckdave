@@ -1,5 +1,4 @@
-# reckdave
-## https://guns.lol/reckdave
+# <img src="https://github.com/user-attachments/assets/c1a707aa-9665-4dcd-8ebb-35bdf1d9af83" width="128" align="center"> [reckdave](https://guns.lol/reckdave)
 an indie game developer and modder
 
 contributed on
